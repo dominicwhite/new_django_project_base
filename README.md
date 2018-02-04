@@ -4,6 +4,7 @@ Basic layout for new Django projects.
 Steps:
 - Change name of project in file system, manage.py, wsgi.py, and settings files
 - Change name of base_app in file system, urls.py, and settings/base.py
+- Generate new secret key in settings/dev.py
 
 
 Commands to run:
